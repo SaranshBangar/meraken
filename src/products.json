@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "price": 7499,
+    "image": "/wireless-headphones.jpeg",
+    "rating": "3.0",
+    "description": "High-quality wireless headphones with noise cancellation."
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "price": 14999,
+    "image": "/smart-watch.jpeg",
+    "rating": "2.5",
+    "description": "Stay connected on the go with this stylish smart watch."
+  },
+  {
+    "id": 3,
+    "name": "Running Shoes",
+    "category": "Sports",
+    "price": 5999,
+    "image": "/running-shoes.jpeg",
+    "rating": "4.0",
+    "description": "Comfortable running shoes for your daily workout."
+  },
+  {
+    "id": 4,
+    "name": "Coffee Maker",
+    "category": "Home",
+    "price": 3999,
+    "image": "/coffee-maker.jpeg",
+    "rating": "1.5",
+    "description": "Start your day right with this efficient coffee maker."
+  },
+  {
+    "id": 5,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 4499,
+    "image": "/bluetooth-speaker.jpeg",
+    "rating": "4.5",
+    "description": "Portable Bluetooth speaker with rich sound quality."
+  },
+  {
+    "id": 6,
+    "name": "Yoga Mat",
+    "category": "Fitness",
+    "price": 2299,
+    "image": "/yoga-mat.jpeg",
+    "rating": "3.5",
+    "description": "Durable and non-slip yoga mat for your daily practice."
+  },
+  {
+    "id": 7,
+    "name": "Stainless Steel Water Bottle",
+    "category": "Accessories",
+    "price": 1799,
+    "image": "/stainless-steel-water-bottle.jpeg",
+    "rating": "5.0",
+    "description": "Keep your drinks hot or cold with this insulated water bottle."
+  },
+  {
+    "id": 8,
+    "name": "Gaming Mouse",
+    "category": "Electronics",
+    "price": 2999,
+    "image": "/gaming-mouse.jpeg",
+    "rating": "2.0",
+    "description": "Ergonomic gaming mouse with customizable buttons."
+  },
+  {
+    "id": 9,
+    "name": "Electric Kettle",
+    "category": "Home",
+    "price": 2499,
+    "image": "/electric-kettle.jpeg",
+    "rating": "3.5",
+    "description": "Fast and efficient electric kettle for boiling water."
+  },
+  {
+    "id": 10,
+    "name": "Smart LED Bulb",
+    "category": "Home Automation",
+    "price": 1499,
+    "image": "/smart-led-bulb.jpeg",
+    "rating": "0.5",
+    "description": "Control your lighting with this smart LED bulb via app or voice."
+  },
+  {
+    "id": 11,
+    "name": "Fitness Tracker",
+    "category": "Electronics",
+    "price": 6999,
+    "image": "/fitness-tracker.jpeg",
+    "rating": "4.5",
+    "description": "Track your steps, heart rate, and workouts with ease."
+  },
+  {
+    "id": 12,
+    "name": "Cordless Vacuum Cleaner",
+    "category": "Home",
+    "price": 9999,
+    "image": "/cordless-vacuum-cleaner.jpeg",
+    "rating": "1.0",
+    "description": "Lightweight and powerful cordless vacuum for quick clean-ups."
+  }
+]

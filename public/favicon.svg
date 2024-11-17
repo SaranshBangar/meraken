@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg data-bbox="0 0 800 800" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" height="800" width="800" data-type="color">
+    <g>
+        <path fill="#0D0E0F" d="M800 0v800H0V0z" data-color="1"/>
+        <path fill="#FF9345" d="M209.434 250.253h63.195l114.195 107.542v83.706L279.282 340.056V569h-69.848zm381.943 0h-62.641L413.987 357.795v83.706l107.542-101.445V569h69.848z" data-color="2"/>
+        <g clip-path="url(#5f11fd0d-3595-4129-8641-c99081a2ce74)">
+            <path fill="#ffffff" d="M209.434 250.253h63.195l114.195 107.542v83.706L279.282 340.056V569h-69.848zm381.943 0h-62.641L413.987 357.795v83.706l107.542-101.445V569h69.848z" data-color="3"/>
+        </g>
+        <defs fill="none">
+            <clipPath id="5f11fd0d-3595-4129-8641-c99081a2ce74">
+                <path fill="#ffffff" d="M647 122v555H401V122z"/>
+            </clipPath>
+        </defs>
+    </g>
+</svg>
