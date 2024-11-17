@@ -16,7 +16,7 @@ interface ProductDetailsProps {
     category: string;
     price: number;
     image: string;
-    rating: number;
+    rating: string;
     description: string;
   } | null;
   isOpen: boolean;
@@ -68,7 +68,7 @@ export function ProductDetails({
                         <Star
                           key={i}
                           className={`w-5 h-5 ${
-                            i < Math.round(product.rating)
+                            i < Math.round(Number(product.rating))
                               ? "text-yellow-400 fill-current"
                               : "text-gray-300"
                           }`}
