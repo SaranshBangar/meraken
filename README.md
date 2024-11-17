@@ -70,4 +70,8 @@ To get the project up and running locally, follow these steps:
 
 ## Screenshots
 
-Add some screenshots to illustrate the UI/UX of your application. Include images for different screen sizes if your project is responsive.
+![image](https://github.com/user-attachments/assets/625ad6ac-f118-4469-bcd2-b6daeef452fd)
+![image](https://github.com/user-attachments/assets/94fa3dd8-faeb-441a-86df-993e3ef22892)
+![image](https://github.com/user-attachments/assets/fae8523e-8777-488c-8e13-de30d4972a9f)
+![image](https://github.com/user-attachments/assets/e0c06dc1-a9cc-4944-a629-71f4cd09c474)
+![image](https://github.com/user-attachments/assets/65666281-04e6-4550-b481-857b6178c5ab)
